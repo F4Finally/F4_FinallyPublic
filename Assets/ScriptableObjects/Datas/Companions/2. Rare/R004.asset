@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0f175f2010358b4d93297dcfee38903, type: 3}
+  m_Name: R004
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: d40cc316a6785294bbf4228f45bcccaa, type: 2}
+  dataName: "\uD64D\uB2F9"
+  grade: 1
+  baseStats:
+    combatPower: 0
+    hp: 88
+    attack: 18
+    defense: 8
+  passiveEffect:
+    affectedStat: 0
+    basePercentageBonus: 1.3
+    bonusPerTenLevels: 0.1
+  position: 1
+  companionId: R004
+  attackRange: 0.5
+  uniqueSkillData:
+    skillName: "\uB09C \uB458\uB2E4"
+    description: "\uC790\uC2E0\uC758 \uACF5\uACA9\uB825\uACFC \uBC29\uC5B4\uB825\uC774
+      \uC77C\uC2DC\uC801\uC73C\uB85C 4% \uC99D\uAC00\uC2DC\uD0A8\uB2E4."
+    effectValue: 0.04
+    skillIcon: {fileID: 21300000, guid: a7f33904b674bde4e956299d96a8dd52, type: 3}
+    coolDown: 5
+    duration: 5
+    effectPrefab: {fileID: 4882158809442941891, guid: 2c2f82bab8782474387126daabe2e49d, type: 3}

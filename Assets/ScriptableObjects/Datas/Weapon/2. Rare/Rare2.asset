@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f4d4bbbfad428640b51c18c3d784bbe, type: 3}
+  m_Name: Rare2
+  m_EditorClassIdentifier: 
+  image: {fileID: 349783019, guid: 4ebf1f095d54b1a4c8e6cb9ac8f43eb0, type: 3}
+  dataName: "\uB808\uC5B4 - 2"
+  grade: 1
+  baseStats:
+    combatPower: 0
+    hp: 600
+    attack: 600
+    defense: 600
+  passiveEffect:
+    affectedStat: 0
+    basePercentageBonus: 1.3
+    bonusPerTenLevels: 0.1
+  weaponName: "\uD30C\uB780\uAC80\uC904\uAE4C"
+  weaponID: 22
+  subGrade: 2
+  levelUpStats:
+    combatPower: 0
+    hp: 50
+    attack: 50
+    defense: 50
+  myWeaponSaveData:
+    weaponID: 22
+    level: 1
+    currentExp: 0
+    maxExp: 1000
+    overlapCount: 0
+    isAcquired: 0
+    isEquipped: 0

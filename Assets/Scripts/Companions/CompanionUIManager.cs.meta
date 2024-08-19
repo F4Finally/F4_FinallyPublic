@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0b85f865a8776034f95793a5e3c2b73e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - companionIconPrefab: {instanceID: 0}
+  - contentTransform: {instanceID: 0}
+  - rangedDPSSprite: {fileID: 21300000, guid: a550e92e53d00ed47abcec544d2564eb, type: 2}
+  - meleeDPSSprite: {fileID: 21300000, guid: d719bdecfc21a7f448b2a437b42c4d5b, type: 2}
+  - bufferSprite: {fileID: 21300000, guid: 9096e3d1fc1cb7646aab6a588e517339, type: 2}
+  - tankSprite: {fileID: 21300000, guid: 74a69c94aff6b904bb05cfe13338b98e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
