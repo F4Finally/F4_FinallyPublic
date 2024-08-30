@@ -1,13 +1,13 @@
- ![](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=F4&fontAlignY=40)
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=F4&fontAlignY=40)
 
 <!-- ![](https://capsule-render.vercel.app/api?type=slice&height=250&color=gradient&text=다시%20돌아온%20F4&fontAlignY=32&desc=최종%20프로젝트&fontSize=50&rotate=16&fontAlign=69&descAlignY=45&descAlign=81) -->
 
 ## 프로젝트
 
-<div align = "center">
+<!-- <div align = "center"> -->
 
-![](https://github.com/user-attachments/assets/c38abeca-55b6-4305-a252-505c762a7d82)
-
+![ProjectImage](https://github.com/user-attachments/assets/1da175bf-71f1-4af3-857f-0b83c776e279)
  
 </div>
 
@@ -55,7 +55,8 @@
 
 **프로젝트 이름**
 
- <img src="https://media.discordapp.net/attachments/1252605295331639442/1274999392247615488/f4.png?ex=66c44b37&is=66c2f9b7&hm=dce7ccd199d169ecc4a6e6923ca6bfa9a3e3cad6077ba8148f95c07df47938fe&=&format=webp&quality=lossless&width=600&height=305" width="1000" height="500">
+![브로셔간판_B05팀](https://github.com/user-attachments/assets/508a2781-685c-45b9-b386-80971ba72e54)
+
 
 - 프로젝트 기간 : 2024.06.27 ~ 2024.08.22
   
@@ -74,12 +75,16 @@
 <details>
   <summary><b>마을</b></summary>
   <div markdown="1">
-    <ul>
+    <ul> 
       <li>마을에서 나온 수확물로 장비와 동료 레벨업!</li>
       <li>시설레벨에 따라 여러가지 수확물을 얻을 수 있습니다.</li>
-      <img src="https://media.discordapp.net/attachments/1252605295331639442/1275041991901843540/image.png?ex=66c472e4&is=66c32164&hm=8cabe52e795f257abe83d09602abf9727b2792733a41fc16f406f9ff2f49d955&=&format=webp&quality=lossless&width=297&height=662" width="200" height="400">
-         <img src="https://media.discordapp.net/attachments/1252605295331639442/1275042213289656320/image.png?ex=66c47318&is=66c32198&hm=ca387c7b22010b09e62d752a31760d58d44eab40c847da53a8c4fa73c177b6cc&=&format=webp&quality=lossless&width=296&height=662" width="200" height="400">
-     <img src="https://media.discordapp.net/attachments/1252605295331639442/1275042133119733781/image.png?ex=66c47305&is=66c32185&hm=311601907e7112e95baea600b021febed06734bd504140ee1e5cefecb524bb37&=&format=webp&quality=lossless&width=298&height=662" width="200" height="400">
+      <li>남은 수확물들은 판매해 추가로 골드를 획득 할 수 있습니다.</li>
+      <img src= "https://github.com/user-attachments/assets/dddf0d3c-5562-430b-bdd4-78077d5cf7b3" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/28e709b7-c62f-4bb3-b11a-2f019893fdd9" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/6a0a18c2-60d6-4565-8d97-08d7626e95da" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/3de129d0-110d-4f63-8b33-5381a15b7b95" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/f437b9b2-f1d7-4376-973e-5294a2ee6bd0" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/e49f1700-593c-438b-96ce-b0a780f50373" width="270" height="600">
     </ul>
   </div>
 </details>
@@ -90,10 +95,12 @@
     <ul>
       <li>열쇠를 사용해 던전입장!</li></li>
       <li>보다 많은 재화를 얻을 수 있습니다.</li>
-           <img src="https://media.discordapp.net/attachments/1252605295331639442/1275044723634995232/image.png?ex=66c4756f&is=66c323ef&hm=dbaf83e660834b915c0031c5a53a1646ddbc1c095f68e589af695eb4eb52600e&=&format=webp&quality=lossless&width=516&height=662" width="200" height="400">
-         <img src="https://media.discordapp.net/attachments/1252605295331639442/1275044787468107806/image.png?ex=66c4757e&is=66c323fe&hm=01e00cbcbb1e07ed00cafbd2d65aaf66837ba41a1c55973b65d14b902257a999&=&format=webp&quality=lossless&width=292&height=437" width="200" height="400">
-     <img src="https://media.discordapp.net/attachments/1252605295331639442/1275044871236747397/image.png?ex=66c47592&is=66c32412&hm=767ca3b38341ac71d009cde6d112f013d46ec2c443e5bafe21324cde44d0cd38&=&format=webp&quality=lossless&width=297&height=661" width="200" height="400">
-          <img src="https://media.discordapp.net/attachments/1252605295331639442/1275044976236957806/image.png?ex=66c475ab&is=66c3242b&hm=c33920c920e9ba9b1620331ecd43ab5cfd7bc1e27d14fa16c8c0c24e67368614&=&format=webp&quality=lossless&width=323&height=437" width="200" height="400">
+      <img src= "https://github.com/user-attachments/assets/13da8ced-b0c8-4ee8-9dd5-b3507c55386e" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/7a15a86e-e912-4d60-9a35-cd2f3d780e69" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/1deb8e68-3755-472e-8b82-54c16ff198d7" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/267fa9b0-e912-4075-8b69-23e5c8c1900d" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/47d88ba1-a2f7-4ba9-adb0-26bb1a9e7b74" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/b3559d53-1f2d-4f16-9635-0c8b9b20a629" width="270" height="600">
     </ul>
   </div>
 </details>
@@ -103,11 +110,13 @@
   <div markdown="1">
     <ul>
       <li>퀘스트를 통해서 씨앗 획득!</li>
-      <li>씨앗을 통해 동료와 장비를 뽑을 수 있습니다.</li>
-           <img src="https://media.discordapp.net/attachments/1252605295331639442/1275042317950128170/image.png?ex=66c47331&is=66c321b1&hm=546c3ec0e6d6d0403588f2b3fca5a3a2b63ed6b8d231154d9d44e253292c4253&=&format=webp&quality=lossless&width=575&height=571" width="400" height="400">
-         <img src="https://media.discordapp.net/attachments/1252605295331639442/1275042443045376031/image.png?ex=66c4734f&is=66c321cf&hm=85c81d0dcd9098ca31e34eef7e3690a27c3ed0e912b8f22929cc82c8b2b90f12&=&format=webp&quality=lossless&width=578&height=535" width="400" height="400">
-     <img src="https://media.discordapp.net/attachments/1252605295331639442/1275042600474382367/image.png?ex=66c47375&is=66c321f5&hm=50b3bf0283f4ed1df60e5abb6342c75e0081bc422a5836eb852140cdb4244bab&=&format=webp&quality=lossless&width=573&height=572" width="400" height="400">
-          <img src="https://media.discordapp.net/attachments/1252605295331639442/1275042793449848842/image.png?ex=66c473a3&is=66c32223&hm=a200c2fb1115999770377386a2df4948eecd80e4d5bbed78820ce64c873db323&=&format=webp&quality=lossless&width=576&height=573" width="400" height="400">
+      <li>씨앗을 통해 동료와 장비를 뽑을 수 있습니다.</li> 
+      <img src= "https://github.com/user-attachments/assets/7f95b285-d24c-436c-b684-dc6f80c25bdd" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/a7a0765e-cee9-48ca-9e21-3881a11a99d3" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/9f4fc479-41d2-4e6c-8bfb-a08bc979d23d" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/d478ef45-67dc-4a76-99f4-94cf7feb1c56" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/9c81bd77-3b14-49c6-b7f4-ce7e086d402c" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/cd9f9d28-fb8f-49f6-8d3d-c61a33cc7d34" width="270" height="600">      
     </ul>
   </div>
 </details>
@@ -117,22 +126,23 @@
   <div markdown="1">
     <ul>
       <li>플레이어와 함께 싸우는 친구!</li>
-      <li>동료와 함께 사용자만의 파티를 꾸밀 수 있다.</li>
-       <img src="https://media.discordapp.net/attachments/1252605295331639442/1275042924089839638/image.png?ex=66c473c2&is=66c32242&hm=c26d881f0193552562e818972a0ef7f44f887e4bee89a2210973bc0468984094&=&format=webp&quality=lossless&width=443&height=661" width="200" height="400">
-         <img src="https://media.discordapp.net/attachments/1252605295331639442/1275043082303438859/image.png?ex=66c473e7&is=66c32267&hm=37d6b34a3d6c1314cd680844885a02192d5acc050796e738b8072a3b6c2d3a5b&=&format=webp&quality=lossless&width=302&height=437" width="200" height="400">
+      <li>동료와 함께 사용자만의 파티를 꾸밀 수 있습니다.</li>
+      <img src= "https://github.com/user-attachments/assets/dd495580-3ee6-41fa-9e26-1d776e2aebc4" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/a10cacdf-5cdb-436f-a36e-23feb25a1694" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/a2da4eb3-05c6-474e-96fa-6486fbb9e199" width="270" height="600">
     </ul>
   </div>
 </details>
 
 <details>
-  <summary><b>무기</b></summary>
+  <summary><b>장비</b></summary>
   <div markdown="1">
     <ul>
       <li>플레이어의 강함을 높이자!</li>
-      <li>착용한 무기에 따라 플레이어를 성장 시킬 수 있다.</li>
-          <img src="https://media.discordapp.net/attachments/1252605295331639442/1275046606236029010/image.png?ex=66c47730&is=66c325b0&hm=49b3d39cc49084c7a7bd9c90fd7c9caadffe86d9f0025cd8f966740ce0c67e84&=&format=webp&quality=lossless&width=298&height=661" width="200" height="400">
-           <img src="https://cdn.discordapp.com/attachments/1252605295331639442/1275046687940808794/image.png?ex=66c47743&is=66c325c3&hm=c44ee1c99d5492163d33aaabe028ee081592a137129e4493b57af1dbd5516ec3&" width="200" height="400">
-         <img src="https://cdn.discordapp.com/attachments/1252605295331639442/1275046845114224732/image.png?ex=66c47769&is=66c325e9&hm=31eeb028ae7cd9f5d2d0918700a2b9a2bd253467c0d6e6c5b9b5187199359d3e&" width="200" height="400">
+      <li>장비를 장착시켜 플레이어를 더욱 강하게 만들어줄 수 있습니다.</li>
+      <img src= "https://github.com/user-attachments/assets/bafb10bd-9260-42b5-a1d6-5ba10cf58f88" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/2d4a12ed-ad6a-4cf6-a052-ef7d77e7bf45" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/6c877492-b5fb-4d3d-ae6a-9dd984ce8add" width="270" height="600">
     </ul>
   </div>
 </details>
@@ -143,9 +153,9 @@
   <div markdown="1">
     <ul>
       <li>소환을 통해 동료와 무기를 획득!</li>
-      <li>등급별로 여러가지 동료와 무기를 획득할 수 있다.</li>
-          <img src="https://media.discordapp.net/attachments/1252605295331639442/1275044421666082911/image.png?ex=66c47527&is=66c323a7&hm=651f458a9597c72dcd6f4d06a252b1930cf580be3a5e5aac99ad1195997ea2a4&=&format=webp&quality=lossless&width=196&height=437" width="200" height="400">
-           <img src="https://media.discordapp.net/attachments/1252605295331639442/1275044503505469482/image.png?ex=66c4753a&is=66c323ba&hm=bb25f6b81f56819b89b3601d54186a262a94bf0c541c91657ca73bb209f609cf&=&format=webp&quality=lossless&width=195&height=437" width="200" height="400">
+      <li>등급별로 여러가지 동료와 무기를 획득할 수 있습니다.</li>
+      <img src= "https://github.com/user-attachments/assets/3fcac531-85d5-4d50-a2be-b5d5ffb39da4" width="270" height="600">
+      <img src= "https://github.com/user-attachments/assets/3eb5622f-0869-4e12-bc23-f1addd3515da" width="270" height="600">
     </ul>
   </div>
 </details>
@@ -219,6 +229,7 @@
     </ul>
   </div>
 </details>
+
 
 
 
